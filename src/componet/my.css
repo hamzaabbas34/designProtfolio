@@ -1,0 +1,69 @@
+
+@media only screen and (min-width: 425px) {
+    button.\!absolute.top-2\/4.left-4.-translate-y-2\/4.rounded-full.select-none.transition-all.disabled\:opacity-50.disabled\:shadow-none.disabled\:pointer-events-none.w-12.max-w-\[48px\].h-12.max-h-\[48px\].text-white.hover\:bg-white\/10.active\:bg-white\/30.grid.place-items-center {
+        border: 1px solid blue;
+        opacity: 1;
+        left: 1%;
+    }
+    button.\!absolute.top-2\/4.right-4.-translate-y-2\/4.rounded-full.select-none.transition-all.disabled\:opacity-50.disabled\:shadow-none.disabled\:pointer-events-none.w-12.max-w-\[48px\].h-12.max-h-\[48px\].text-white.hover\:bg-white\/10.active\:bg-white\/30.grid.place-items-center {
+        border: 1px solid blue;
+        right: 1%
+    }
+  }
+
+
+  .relative.w-full.h-full.overflow-x-hidden.flex {
+    overflow-y: hidden;
+}
+
+
+.carousel-control-prev-icon 
+{
+    width: 24px;
+    height: 24px;
+}
+    
+.carousel-control-next-icon
+{
+    width: 24px;
+    height: 24px;
+}
+
+.myc{
+    border: 2px solid white !important;
+}
+path{
+color: blue;
+}
+
+button.\!absolute.top-2\/4.left-4.-translate-y-2\/4.rounded-full.select-none.transition-all.disabled\:opacity-50.disabled\:shadow-none.disabled\:pointer-events-none.w-12.max-w-\[48px\].h-12.max-h-\[48px\].text-white.hover\:bg-white\/10.active\:bg-white\/30.grid.place-items-center {
+    border: 1px solid blue;
+    opacity: 1;
+}
+
+button.\!absolute.top-2\/4.left-4.-translate-y-2\/4.rounded-full.select-none.transition-all.disabled\:opacity-50.disabled\:shadow-none.disabled\:pointer-events-none.w-12.max-w-\[48px\].h-12.max-h-\[48px\].text-white.hover\:bg-white\/10.active\:bg-white\/30.grid.place-items-center:hover {
+    background-color: blue;
+}
+
+button.\!absolute.top-2\/4.left-4.-translate-y-2\/4.rounded-full.select-none.transition-all.disabled\:opacity-50.disabled\:shadow-none.disabled\:pointer-events-none.w-12.max-w-\[48px\].h-12.max-h-\[48px\].text-white.hover\:bg-white\/10.active\:bg-white\/30.grid.place-items-center:hover path {
+    color: white;
+
+}
+
+button.\!absolute.top-2\/4.right-4.-translate-y-2\/4.rounded-full.select-none.transition-all.disabled\:opacity-50.disabled\:shadow-none.disabled\:pointer-events-none.w-12.max-w-\[48px\].h-12.max-h-\[48px\].text-white.hover\:bg-white\/10.active\:bg-white\/30.grid.place-items-center {
+    border: 1px solid blue;
+}
+
+button.\!absolute.top-2\/4.right-4.-translate-y-2\/4.rounded-full.select-none.transition-all.disabled\:opacity-50.disabled\:shadow-none.disabled\:pointer-events-none.w-12.max-w-\[48px\].h-12.max-h-\[48px\].text-white.hover\:bg-white\/10.active\:bg-white\/30.grid.place-items-center :hover path {
+    color: white;
+}
+button.\!absolute.top-2\/4.right-4.-translate-y-2\/4.rounded-full.select-none.transition-all.disabled\:opacity-50.disabled\:shadow-none.disabled\:pointer-events-none.w-12.max-w-\[48px\].h-12.max-h-\[48px\].text-white.hover\:bg-white\/10.active\:bg-white\/30.grid.place-items-center:hover {
+    background-color: blue;
+}
+button.\!absolute.top-2\/4.right-4.-translate-y-2\/4.rounded-full.select-none.transition-all.disabled\:opacity-50.disabled\:shadow-none.disabled\:pointer-events-none.w-12.max-w-\[48px\].h-12.max-h-\[48px\].text-white.hover\:bg-white\/10.active\:bg-white\/30.grid.place-items-center:hover path {
+    color: white;
+}
+
+.cc{
+    position: absolute;
+}
