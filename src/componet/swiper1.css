@@ -1,17 +1,15 @@
 
 
 
-.swiper-slide{
-  margin-right:50pxt;
-}
+
 @media only screen and (min-width: 768px) {
   .swiper-slide{
-    margin-right:40px !important;
+    margin-right:  6px !important;
   }
 }
 @media only screen and (min-width: 1024px) {
   .swiper-slide{
-    margin-right:30px !important;
+    margin-right:15px !important;
   }
 }
 
@@ -21,7 +19,19 @@
     --swiper-per-view: 1;
   }
   .swiper-slide{
-    margin-right:2rem ;
+    margin-right :3.5rem ;
+    width: 350px !important; 
+    justify-self: center;
+  }
+  .swiper-slide-prev{
+    width: 350px !important; 
+  }
+  .swiper-slide-next{
+    width: 350px !important;
+    margin-right :-2rem ;
+  }
+  .swiper-slide-active{
+    margin-left :12rem ;
   }
   
 
